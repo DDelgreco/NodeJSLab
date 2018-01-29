@@ -1,0 +1,16 @@
+{
+  "name": "nodejslab",
+  "version": "1.0.0",
+  "description": "Node JS Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derrick Delgreco",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-json": "^0.6.2",
+    "request-promise": "^4.2.2"
+  }
+}
